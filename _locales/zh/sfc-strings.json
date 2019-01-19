@@ -1,0 +1,19 @@
+{
+  "SFCButton.None|block": "无",
+  "SFCButton.RSH|block": "右+B（组合键）",
+  "SFCButton.LSH|block": "左+B（组合键）",
+  "SFCButton.X|block": "X",
+  "SFCButton.A|block": "A",
+  "SFCButton.R|block": "右（东）",
+  "SFCButton.L|block": "左（西）",
+  "SFCButton.D|block": "下（南）",
+  "SFCButton.U|block": "上（北）",
+  "SFCButton.Start|block": "开始",
+  "SFCButton.Select|block": "选择",
+  "SFCButton.Y|block": "Y",
+  "SFCButton.B|block": "B",
+  "sfc.gamepad.cachePressedKeyList|block": "%sfcGamepad|缓存SFC游戏手柄按下的键列表",
+  "sfc.gamepad.isContainsButton|block": "%sfcGamepad|缓存的按键列表是否包含:%button",
+  "sfc.gamepad.getSFCReading|block": "%sfcGamepad|获取SFC游戏手柄读取的值（针对开发者）",
+  "sfc.setSFC|block": "设置SFC引脚:|data引脚 %pin1|latch引脚 %pin2|clk引脚 %pin3"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "sfc",
+    "version": "0.1.0",
+    "description": "SFC NES Gamepad",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/sfc-strings.json"
+    ],
+    "public": true
+}
