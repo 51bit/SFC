@@ -6,19 +6,19 @@ I am selling SFC NES Gamepad suite (Tranditional NES gamepad + 9 pin interface +
 
 **SFC NES Gamepad:**
 
-![Alt text](https://github.com/51bit/SFCNES/raw/master/icon.png?raw=true "SFC NES Gamepad picture")
+![Alt text](https://github.com/51bit/SFC/raw/master/icon.png?raw=true "SFC NES Gamepad picture")
 
 **SFC NES Gamepad suite for microbit:**
 
 (Supporting by me as I am selling it.)
 
-![Alt text](https://github.com/51bit/SFCNES/raw/master/product.jpg?raw=true "Product picture")
-![Alt text](https://github.com/51bit/SFCNES/raw/master/product2.jpg?raw=true "Product picture")
+![Alt text](https://github.com/51bit/SFC/raw/master/product.jpg?raw=true "Product picture")
+![Alt text](https://github.com/51bit/SFC/raw/master/product2.jpg?raw=true "Product picture")
 
 **My 9 pin gamepad definition:**
-![Alt text](https://github.com/51bit/SFCNES/raw/master/myDefinition.JPG?raw=true "My 9 pin gamepad definition picture")
+![Alt text](https://github.com/51bit/SFC/raw/master/myDefinition.JPG?raw=true "My 9 pin gamepad definition picture")
 
-[Other definitions](https://github.com/51bit/SFCNES/raw/master/otherDefinitions.JPG)
+[Other definitions](https://github.com/51bit/SFC/raw/master/otherDefinitions.JPG)
 
 ## Basic Usage
 
@@ -103,13 +103,13 @@ Use ``||isContainsButton||`` to check if the cached the pressed key list contain
 
 ## example screenshots
 
-![Alt text](https://github.com/51bit/SFCNES/raw/master/sfcpxt.png?raw=true "SFC PXT picture")
-![Alt text](https://github.com/51bit/SFCNES/raw/master/sfcblocks.png?raw=true "SFC Blocks picture")
+![Alt text](https://github.com/51bit/SFC/raw/master/sfcpxt.png?raw=true "SFC PXT picture")
+![Alt text](https://github.com/51bit/SFC/raw/master/sfcblocks.png?raw=true "SFC Blocks picture")
 
 ### connections:
 
-![Alt text](https://github.com/51bit/SFCNES/raw/master/sfcpin1.jpg?raw=true "SFC 5 Pin picture")
-![Alt text](https://github.com/51bit/SFCNES/raw/master/sfcpin2.jpg?raw=true "SFC 4 Pin picture")
+![Alt text](https://github.com/51bit/SFC/raw/master/sfcpin1.jpg?raw=true "SFC 5 Pin picture")
+![Alt text](https://github.com/51bit/SFC/raw/master/sfcpin2.jpg?raw=true "SFC 4 Pin picture")
 
 ## Supported targets
 
