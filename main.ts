@@ -32,7 +32,7 @@ enum SFCButton {
 /**
  * SFC NES Gamepad
  */
-//% weight=100 color=#0fbc11 icon="" block="SFC NES Gamepad"
+//% weight=100 color=#0fbc11 icon="\uf11b" block="SFC NES Gamepad"
 namespace sfc {
     let keys = ["0", "0", "0", "0", "RSH", "LSH", "X", "A", "R", "L", "D", "U", "Start", "Select", "Y", "B"]
     export class gamepad {
